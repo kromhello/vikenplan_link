@@ -1,11 +1,3 @@
-# =============================================================================
-# linkyee — Site Configuration (Viken Plan)
-# =============================================================================
-
-# Theme — Built-ins:
-#   default | minimal-mono | editorial-serif | neo-brutalism
-#   glassmorphism | terminal-retro | paper-card | newsprint
-# 推荐 editorial-serif（高级时尚画报感）或 neo-brutalism（前卫几何叛逆感）
 theme: editorial-serif
 
 # HTML <html lang> attribute
@@ -14,28 +6,16 @@ lang: "en"
 # Color scheme: auto | light | dark
 color_scheme: auto
 
-# -----------------------------------------------------------------------------
-# Plugins (已清理原模板的个人开发者插件)
-# -----------------------------------------------------------------------------
 plugins: []
 
-# -----------------------------------------------------------------------------
-# Tracking (如需统计访问数据，可填入你的 GA4 Measurement ID，例如 G-XXXXXXXXXX)
-# -----------------------------------------------------------------------------
 google_analytics_id:
 
-# -----------------------------------------------------------------------------
-# Profile header
-# -----------------------------------------------------------------------------
 title: "Viken Plan | Legwear Revolution - Artistic Stockings Defy Norms"
 avatar: "https://cdn.shopify.com/s/files/1/0660/9154/8834/files/img_v3_0217k_00d5bb98-9827-409e-b9a3-58f4f42e348g.jpg?v=1795405621"
 name: "Viken Plan"
 tagline: >-
     Artistic stockings that defy norms. Since 2014, turning legs into canvases of audacity. Dare to wear your manifesto.
 
-# -----------------------------------------------------------------------------
-# Links
-# -----------------------------------------------------------------------------
 links:
 - link:
       icon: "fa-solid fa-store"
@@ -94,9 +74,6 @@ links:
       title: "Order Tracking"
       target: "_blank"
 
-# -----------------------------------------------------------------------------
-# Social media buttons
-# -----------------------------------------------------------------------------
 socials:
 - social:
       icon: "fa-brands fa-instagram"
@@ -117,9 +94,6 @@ socials:
       alt: "service@vikenplan.com"
       target: "_self"
 
-# -----------------------------------------------------------------------------
-# Footer
-# -----------------------------------------------------------------------------
 footer: >
     Dare to wear your manifesto.
 

@@ -67,6 +67,14 @@ links:
       target: "_blank"
 
 - link:
+      icon: "fa-solid fa-envelope"
+      text: "service@vikenplan.com"
+      url: "mailto:service@vikenplan.com"
+      alt: "Customer Service"
+      title: "Customer Service"
+      target: "_blank"
+
+- link:
       icon: "fa-solid fa-truck-fast"
       text: "Track Your Order"
       url: "https://vikenplan.com/apps/track123"

@@ -95,12 +95,6 @@ socials:
       title: "Viken Plan on Facebook"
       alt: "Viken Plan Facebook"
       target: "_blank"
-- social:
-      icon: "fa-solid fa-envelope"
-      url: "mailto:service@vikenplan.com"
-      title: "Contact Us: service@vikenplan.com"
-      alt: "service@vikenplan.com"
-      target: "_self"
 
 footer: >
     Turning legs into canvases of audacity. Dare to wear your manifesto.
